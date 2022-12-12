@@ -15,8 +15,8 @@
 
 - 🌱 I’m currently trying to learn lots of things in the domain of computer science
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Contribute more to open source developement and enhance my skills in CP and DSA
-- ⚡ Fun fact: I love playing cricket and listening music
+- 🥅 2022 Goals: Contribute more to open source developement and enhance my skills in Java and SQL
+- ⚡ Fun fact: I love playing cricket and watching movies
 ---
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shauryakohli&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Shaurya Kohli" /></a></p>
 
@@ -54,12 +54,6 @@
   <a href="mailto:piyushchawla305@gmail.com" target="_blank">
     <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" target="_blank" alt="Piyush| Gmail" width="40px" >
   </a>
-  <a href="https://www.hackerrank.com/shauryakohli007" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" target="blank" alt="Shaurya|Hackkerank" width="40px" /></a>
-  <a href="https://leetcode.com/shauryakohli/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" target="blank" alt="Shaurya|Leetcode" width="40px" /></a>
-    <a href="https://www.instagram.com/shauryakohli11/" target="_blank">
-    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" target="_blank"  alt="Shaurya | Instagram" width="40px" >
-  </a>
-  <a href="https://discordapp.com/users/1651" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" target="blank" alt="piyush|Discord"  width="40px" /></a>
   <br/>
 </div>
 
