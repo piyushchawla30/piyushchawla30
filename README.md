@@ -18,7 +18,7 @@
 - 🥅 2022 Goals: Contribute more to open source developement and enhance my skills in Java and SQL
 - ⚡ Fun fact: I love playing cricket and watching movies
 ---
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shauryakohli&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Shaurya Kohli" /></a></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushchawla30&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Piyush chawla" /></a></p>
 
 ---
 
@@ -46,12 +46,16 @@
 <h3 align="center"> Connect with me:</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/piyush-chawla-b22269245/" target="_blank">
-    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" target="_blank" alt="Shaurya | LinkedIn" width="40px" >
+    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" target="_blank" alt="Piyush | LinkedIn" width="40px" >
   </a>
     <a href="https://github.com/piyushchawla30" target="_blank">
-    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg" target="_blank" alt="Shaurya| Github" width="40px" >
+    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg" target="_blank" alt="Piyush| Github" width="40px" >
+  </a>
+    <a href="https://twitter.com/piyushchawla30" target="_blank">
+    <img src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" target="_blank" alt="Piyush| Twitter" width="40px" >
   </a>
   <a href="mailto:piyushchawla305@gmail.com" target="_blank">
+     
     <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" target="_blank" alt="Piyush| Gmail" width="40px" >
   </a>
   <br/>
